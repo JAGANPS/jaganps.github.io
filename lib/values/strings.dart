@@ -180,11 +180,11 @@ class StringConst {
   static const String COMPANY_4_URL ="https://www.flexera.com/";
   static const String POSITION_4 = "Software Engineer";
   static const String COMPANY_4_ROLE_1 =
-      "Work collaboratively  on Automation tools development, browser development, backend with PSQL ,internal Projects based on Data Science(Pandas,NLTK,etc,..) and Machine Learning";
+      "Work collaboratively  on Automation tools development, browser development, backend with PSQL,SQL server and aws ,internal Projects based on Data Science(Pandas,NLTK,etc,..) with Machine Learning model and Deeplearning Models";
   static const String COMPANY_4_ROLE_2 =
       "Write modern, performant, maintainable code for a Internal tools for the Company";
   static const String COMPANY_4_ROLE_3 =
-      "Work with a variety of different languages, platforms, frameworks, and content management systems such as C#,Python, JavaScript, PHP, MSSQL,PSQL, React Js,Scrapy,Codeigniter,Rest API's and Bootstrap";
+      "Work with a variety of different languages, platforms, frameworks, and content management systems such as Go Lang,C#,Python, JavaScript, PHP, MSSQL,PSQL, React Js,Scrapy,Codeigniter,Rest API's,Dockers and MinKube and Bootstrap";
  
   static const String LOCATION_4 = "Bangalore - India";
   static const String DURATION_4 = "Apr 2021 - Current";
